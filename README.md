@@ -31,7 +31,8 @@ Step 3: The next step includes checking for blank/null values in mandatory colum
 
 Step 4: In order to calculate, summarize, and analyze data, that lets us see patterns, trends, we will insert a Pivot table. For this, select any cell in the data, and click on Insert Pivot Table in the Insert Tab. The Pivot table is inserted in a separate sheet and we will rename the sheet as "Sheet Design".
 
-Step 5: In the "Sheet Design" sheet, a blank pivot table is added. In the values column of the pivot table, we will insert the following columns respectively: a) Sales column - To represent Total Sales
+Step 5: In the "Sheet Design" sheet, a blank pivot table is added. In the values column of the pivot table, we will insert the following columns respectively:
+a) Sales column - To represent Total Sales
 
 b) Sales column - To represent Average Sales( In this case, change the value field settings to Average by right clicking on the the "Sum of sales")
 
@@ -99,24 +100,6 @@ c) Supermarket Type 1 received maximum orders among the various outlet types and
 About
 This repository is used to design a dashboard for Blinkit, a quick commerce service in Excel. The project involved data cleaning, transformation and using pivot tables to design interactive visualizations in Excel only. .
 
-Topics
-data excel data-transformation pivot-tables data-visualization data-cleaning excel-formulas
-Resources
- Readme
- Activity
-Stars
- 3 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2024 GitHub, Inc.
 
 
 
